@@ -1,5 +1,5 @@
 > The [**GHOST**](https://discord.com/oauth2/authorize?client_id=1315093329699934260) Discord Bot is only a utility bot. This bot fully follows all of Discord's Terms of Service and any other sources who say otherwhise are not real.
-> (https://discord.com/terms)
+> ([https://discord.com/terms](https://discord.com/terms))
 
 # Terms of Service
  - ### **Last Updated: 3/12/25**
